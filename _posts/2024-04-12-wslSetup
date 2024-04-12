@@ -1,0 +1,8 @@
+#WSL setup
+WSL setting was done in windows 10 Home environment running Ubuntu 22.04.
+This was tricky to set up at the start as virtual environment had to be configured for windows linux subsystem and OS settings.
+CPU virtualization had to be configured in the OS which was in the VT-m inside Gigabyte OS.
+
+After getting these configured, the wsl 2 run successfully and ubuntu installment proceeded successfully.
+Docker Desktop was successfully setup as well with account setup and json configuration.
+
