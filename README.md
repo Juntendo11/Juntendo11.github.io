@@ -1,3 +1,4 @@
-# Your blog
+# Juntendo Blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Welcome to my blog where I post my personal findings as a diary record, generally regarding with 
+computer vision and 3DCG
