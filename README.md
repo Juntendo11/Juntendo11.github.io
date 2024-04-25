@@ -11,7 +11,8 @@ generally regarding with computer vision and 3DCG.
 
 # Interests
 <u> 3D modelling and animation. <u>
-Here is Linie from "Sousou no Frieren" that I modelled and rendered! 
+Here is Linie from "Sousou no Frieren" that I modelled and rendered in Blender!
+
 ![Recording-2023-12-16-07-26-16](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/41d95857-76ee-493a-87a5-9ccd390d7ad6)
 
 <u> Graphics Shader<u>
@@ -24,6 +25,7 @@ Passionate about combining electronics engineering with 3DCG!
 Motion captures are pre cool imo!
 
 ![moglove](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/292090a9-c464-4304-9070-6a6a95e35d41)
+
 This one has tensorflow lite built in on a ESP32! Machine learning on $4 microcontroller? can u believe it? I love ESP32 :D
 
 
