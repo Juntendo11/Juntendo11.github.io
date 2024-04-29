@@ -6,7 +6,7 @@ generally regarding with computer vision and 3DCG.
 # Bit about myself
 - Electrical engineering at University of Queensland
 - Electronics and 3DCG hobbyist
-- I like good art
+- I like art
 
 
 # Interests
