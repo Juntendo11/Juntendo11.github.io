@@ -30,12 +30,11 @@ This one has tensorflow lite built in on a ESP32! Machine learning on $4 microco
 
 
 
-Used to build high voltage devices like tesla coil back in the days. I almost killed myself few times so I stopped XD
+Used to build high voltage devices like tesla coil back in the days
 
 ![tesla coil](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/c7e2dc28-770c-4826-9e2c-ea17b47f2893)
 
 
-Don't forget to subscribe to my channel if u want...
 https://www.youtube.com/channel/UC73LkQJ47rRI07iMOzu7-5g
 Juntendo
 
