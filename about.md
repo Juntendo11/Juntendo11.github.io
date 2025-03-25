@@ -1,4 +1,15 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+#Electronics and 3DCG hobbyiest
 
+#Interests
+-High voltage
+-AR/VR
+-3D engine
+-Shader programming
+
+#3D
+-Unity
+-Zbrush
+-Blender
+-Substance
