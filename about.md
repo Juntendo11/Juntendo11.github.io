@@ -1,15 +1,15 @@
 # About
 
-# Electronics and 3DCG hobbyiest
+**Electronics and 3DCG Hobbyist**
 
-# Interests
--High voltage
--AR/VR
--3D engine
--Shader programming
+## Interests  
+- High voltage  
+- AR/VR  
+- 3D engine  
+- Shader programming  
 
-# 3
--Unity
--Zbrush
--Blender
--Substance
+## 3D Tools  
+- Unity  
+- ZBrush  
+- Blender  
+- Substance  
