@@ -18,15 +18,13 @@ Here is Linie from "Sousou no Frieren" that I modelled and rendered in Blender!
 # Motion Capture
 Pushing the boundaries of creativity and technology!
 
-Machine trained motion capture glove
-
 ![moglove](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/292090a9-c464-4304-9070-6a6a95e35d41)
 
 Tensorflow lite running on ESP32 enhances finger tracking for more natural expressions
 
 
-
-Used to build high voltage devices like tesla coil back in the days
+# Power electronics
+Million volt tesla coils and high power switching never fails to dissapoint!
 
 ![tesla coil](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/c7e2dc28-770c-4826-9e2c-ea17b47f2893)
 
