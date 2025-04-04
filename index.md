@@ -1,12 +1,12 @@
 # Juntendo Blog
 
-Welcome to my blog where I post my personal findings as a diary record,
+Welcome to Juntendo's blog where I post my personal findings as a diary record,
 generally regarding with Electronics and 3DCG.
 
 # Bit about myself
 - Electrical engineering at University of Queensland
 - Electronics and 3DCG hobbyist
-- I like art
+- Technology and creativity
 
 
 # Interests
