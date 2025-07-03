@@ -1,57 +1,34 @@
-<!-- Example README Portfolio with Custom Style -->
+# Juntendo Blog
 
-<h1 align="center">
-  <img src="https://your-image-url.png" width="150"><br>
-  <b>Juichi Nishimura</b>
-</h1>
+Welcome to Juntendo's blog where I post my personal findings as a diary record,
+generally regarding with Electronics and 3DCG.
 
-<p align="center">💡 Electrical Engineering Student | 🎨 3D Artist | 🔬 VR/AR Explorer</p>
+# Bit about myself
+- Electrical engineering at University of Queensland
+- Electronics and 3DCG hobbyist
+- Technology and creativity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-</p>
 
----
+# Interests
+<u> 3D modelling and animation. <u>
+Here is Linie from "Sousou no Frieren" that I modelled and rendered in Blender!
 
-### ✨ Skills
+![Recording-2023-12-16-07-26-16](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/41d95857-76ee-493a-87a5-9ccd390d7ad6)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Embedded%20Systems-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-3DCG-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Unity-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/-Shader%20Programming-purple?style=for-the-badge">
-</p>
+# Motion Capture
+Pushing the boundaries of creativity and technology!
 
----
+![moglove](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/292090a9-c464-4304-9070-6a6a95e35d41)
 
-### 🎮 Projects
+Tensorflow lite running on ESP32 enhances finger tracking for more natural expressions
 
-#### 🖐️ Finger Tracking VR Rehab Tool  
-Real-time Unity system using hand tracking + electronics to aid stroke rehabilitation.  
-[🔗 GitHub Repo](#) | [📹 Demo](#)
 
-#### ⚡ Tesla Coil + Wireless Power Demo  
-Custom-wound coil for arc discharges, music playing, and fun!  
-[🔗 GitHub Repo](#)
+# Power electronics
+Million volt tesla coils and high power switching never fails to dissapoint!
 
-#### 👩‍🎨 3D Character Art Portfolio  
-Stylized + semi-realistic ZBrush sculpts, painted in Substance.  
-[🎨 ArtStation](#) | [📦 Repo (tools)](#)
+![tesla coil](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/c7e2dc28-770c-4826-9e2c-ea17b47f2893)
 
----
 
-### 📫 Get in Touch
+https://www.youtube.com/channel/UC73LkQJ47rRI07iMOzu7-5g
 
-📧 juichi.email@example.com  
-🔗 [Portfolio Website](#)
-
----
-
-<p align="center">Made with ❤️ by Juichi</p>
+Juntendo
