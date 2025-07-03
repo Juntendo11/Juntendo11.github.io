@@ -1,35 +1,55 @@
-# Juntendo Blog
+<!-- GitHub Portfolio README Template -->
 
-Welcome to Juntendo's blog where I post my personal findings as a diary record,
-generally regarding with Electronics and 3DCG.
+<h1 align="center">Hi, I'm Juichi Nishimura 👋</h1>
+<p align="center">Electrical Engineering Student | 3D Artist | VR/AR Enthusiast | Embedded & Shader Programmer</p>
 
-# Bit about myself
-- Electrical engineering at University of Queensland
-- Electronics and 3DCG hobbyist
-- Technology and creativity
+---
 
+## 🧠 About Me
 
-# Interests
-<u> 3D modelling and animation. <u>
-Here is Linie from "Sousou no Frieren" that I modelled and rendered in Blender!
+- 🎓 Electrical Engineering student with a passion for electronics, 3DCG, and real-time graphics.
+- 🧰 Experienced in building motion tracking systems, RC drones, custom keyboards, and more.
+- 🎨 Skilled in Blender, ZBrush, Substance Painter, and Unity for real-time 3D experiences.
+- 🎮 Exploring haptics and immersive VR environments for accessibility applications.
+- 💡 Always learning: currently diving into OpenGL, shaders, and AR interaction design.
 
-![Recording-2023-12-16-07-26-16](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/41d95857-76ee-493a-87a5-9ccd390d7ad6)
+---
 
-# Motion Capture
-Pushing the boundaries of creativity and technology!
+## 🔧 Skills
 
-![moglove](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/292090a9-c464-4304-9070-6a6a95e35d41)
+**Languages & Tools:**  
+`C/C++` `Python` `Verilog` `MATLAB` `JavaScript` `Unity (C#)` `Blender` `ZBrush` `Substance Painter` `OpenGL` `KiCad` `Fusion 360`  
 
-Tensorflow lite running on ESP32 enhances finger tracking for more natural expressions
+**Technologies & Interests:**  
+`Embedded Systems` `3D Computer Graphics` `VR/AR` `Motion Capture` `Haptic Feedback` `Real-Time Rendering` `Shader Programming`
 
+---
 
-# Power electronics
-Million volt tesla coils and high power switching never fails to dissapoint!
+## 🧩 Featured Projects
 
-![tesla coil](https://github.com/Juntendo11/Juntendo11.github.io/assets/86496557/c7e2dc28-770c-4826-9e2c-ea17b47f2893)
+### 🎮 Finger Tracking VR System
+A Unity-based hand tracking interface designed for rehabilitation purposes, using custom electronics and ML for gesture recognition.  
+[🔗 GitHub Repo](#) | [📹 Demo Video](#)
 
+---
 
-https://www.youtube.com/channel/UC73LkQJ47rRI07iMOzu7-5g
+### 🔋 Tesla Coil Project
+Custom-designed coil with feedback driver and 3D-printed housing. Learned about high-voltage safety, resonance tuning, and RF interference.  
+[🔗 GitHub Repo](#)
 
-Juntendo
+---
 
+### ✍️ 3D Character Art Portfolio
+A growing collection of stylized and realistic characters sculpted in ZBrush and textured in Substance.  
+[🖼 ArtStation](#) | [🔗 GitHub Repo (Tools)](#)
+
+---
+
+## 📫 Contact Me
+
+📧 juichi.email@example.com  
+🔗 [LinkedIn](#) | 🌐 [Personal Website / Portfolio](#)
+
+---
+
+⭐️ *Thanks for visiting! Consider following to keep up with my projects.*
